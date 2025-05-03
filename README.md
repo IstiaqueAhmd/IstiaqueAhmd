@@ -1,11 +1,9 @@
 # Hi, I'm Istiaque Ahmed! 👋
 🤖 Machine Learning Engineer | 🧠 AI Researcher | 🚀 Building Intelligent Systems
 
-![AI Banner](https://via.placeholder.com/1920x300.png/000000/FFFFFF?text=ML+Engineer+%7C+AI+Researcher+%7C+Building+the+Future+with+Intelligent+Systems)
-
 ## 🔭 Current Focus
 - Developing scalable ML pipelines for real-world applications
-- Researching [Your Research Area, e.g., "Transformer Architectures" or "Neuro-Symbolic AI"]
+- Researching Computer Vision and NLP
 - Contributing to open-source AI projects
 - Exploring the ethical implications of AI systems
 
@@ -52,18 +50,16 @@
    [Preprint](#)
 
 ## 🎓 Education
-- **MSc in Artificial Intelligence** - [University Name] (202X-202X)
-- **BSc in Computer Science** - [University Name] (201X-201X)
+- **BSc in Computer Science** - Brac University (2021-2025)
 - Certifications:  
   📜 AWS Machine Learning Specialty  
   📜 DeepLearning.AI TensorFlow Developer
 
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/IstiaqueAhmd)
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istiak-ahmd/)
 
-📫 Reach me at: [your.email@domain.com](mailto:your.email@domain.com)
+
+📫 Reach me at: [istiak6000@gmail.com](mailto:istiak6000@gmail.com)
