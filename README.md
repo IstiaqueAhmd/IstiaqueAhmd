@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <h2>� About Me</h2>
+  <h2> About Me</h2>
 </div>
 
 🤖 **Machine Learning Engineer** | 🧠 **AI Researcher** | 🚀 **Building Intelligent Systems**
