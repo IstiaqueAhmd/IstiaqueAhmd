@@ -90,7 +90,7 @@ me.say_hi()
 ---
 
 <div align="center">
-  <h2>� Featured Projects & Research</h2>
+  <h2>Featured Projects & Research</h2>
 </div>
 
 <div align="center">
