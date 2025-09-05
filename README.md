@@ -57,7 +57,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -135,7 +134,7 @@ me.say_hi()
 ---
 
 <div align="center">
-  <h2>🎓 Education & Certifications</h2>
+  <h2>🎓 Education </h2>
 </div>
 
 <div align="center">
