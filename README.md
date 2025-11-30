@@ -16,34 +16,34 @@
   </a>
 </div>
 
-## 👋 About Me
+##  About Me
 
 Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI** with a passion for turning complex problems into elegant AI solutions. I'm currently finishing my **BSc in Computer Science** at Brac University.
 
-* 🚀 **What I'm Building:** Scalable ML pipelines, end-to-end Computer Vision systems, and robust MLOps infrastructure.
-* 🌱 **What I'm Learning:** Advanced Deep Learning, Distributed Systems, and AI Safety & Ethics.
-* 💡 **Life Philosophy:** "Building the future, one algorithm at a time" ✨
-* 🤝 **Fun Fact:** I believe AI should augment human intelligence, not replace it!
+*  **What I'm Building:** Scalable ML pipelines, end-to-end Computer Vision systems, and robust MLOps infrastructure.
+*  **What I'm Learning:** Advanced Deep Learning, Distributed Systems, and AI Safety & Ethics.
+*  **Life Philosophy:** "Building the future, one algorithm at a time" ✨
+*  **Fun Fact:** I believe AI should augment human intelligence, not replace it!
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 **This is the most important section. Be sure to fill it out with your best work.**
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 🤖 **[Your-Project-Name-1](https://github.com/IstiaqueAhmd/your-repo-1)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-1) <br/> [🌐 Live Demo](https://your-demo-link.com) |
-| 🎯 **[Your-Project-Name-2](https://github.com/IstiaqueAhmd/your-repo-2)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-2) |
-| 💬 **[Your-Project-Name-3](https://github.com/IstiaqueAhmd/your-repo-3)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-3) <br/> [📝 Paper](https://your-paper-link.com) |
+|  **[Your-Project-Name-1](https://github.com/IstiaqueAhmd/your-repo-1)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-1) <br/> [ Live Demo](https://your-demo-link.com) |
+|  **[Your-Project-Name-2](https://github.com/IstiaqueAhmd/your-repo-2)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-2) |
+|  **[Your-Project-Name-3](https://github.com/IstiaqueAhmd/your-repo-3)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-3) <br/> [📝 Paper](https://your-paper-link.com) |
 
 <br/>
 
-## 💼 Professional Journey
+##  Professional Journey
 
 <div align="center">
 
-### 🤖 Data Scientist & AI Engineer
+###  Data Scientist & AI Engineer
 **Join Venture AI** | *Current*
 
 <img src="https://img.shields.io/badge/Impact-200%2B_Businesses-success?style=for-the-badge&logo=target&logoColor=white"/>
@@ -56,12 +56,12 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 <summary><b>🔍 What I Do</b></summary>
 <br/>
 
-* 🧠 **AI Model Development** → Design & deploy custom ML solutions for enterprise clients
-* 📊 **Data Science** → Build predictive models using cutting-edge algorithms
-* 🎯 **Computer Vision** → Create vision systems for real-world applications
-* 💬 **NLP Engineering** → Develop language models and chatbots
-* ⚙️ **MLOps** → Implement scalable ML pipelines with CI/CD
-* 🌍 **Global Impact** → Solutions deployed across healthcare, finance, retail & manufacturing
+*  **AI Model Development** → Design & deploy custom ML solutions for enterprise clients
+*  **Data Science** → Build predictive models using cutting-edge algorithms
+*  **Computer Vision** → Create vision systems for real-world applications
+*  **NLP Engineering** → Develop language models and chatbots
+*  **MLOps** → Implement scalable ML pipelines with CI/CD
+*  **Global Impact** → Solutions deployed across healthcare, finance, retail & manufacturing
 
 **Core Tech:** `Python` `TensorFlow` `PyTorch` `AWS` `GCP` `Docker` `Kubernetes`
 
@@ -69,33 +69,33 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 
 <br/>
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <details>
 <summary>Click to expand my full toolkit</summary>
 <br/>
 
-* **🧠 AI & Machine Learning:**
+* ** AI & Machine Learning:**
     * Python, TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face, NLTK, Spacy
-* **📊 Data Science & Analytics:**
+* ** Data Science & Analytics:**
     * Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter
-* **⚙️ MLOps & DevOps:**
+* ** MLOps & DevOps:**
     * Docker, Kubernetes, MLflow, Apache Airflow, Git, GitHub Actions, CI/CD
-* **☁️ Cloud Platforms:**
+* ** Cloud Platforms:**
     * Amazon Web Services (AWS), Google Cloud (GCP), Microsoft Azure
-* **🗄️ Databases:**
+* ** Databases:**
     * PostgreSQL, MongoDB, Redis, MySQL
 
 </details>
 
 <br/>
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-### 🏫 Academic Background
-**Bachelor of Science in Computer Science** 📍 Brac University | 🗓️ 2021-2025
+###  Academic Background
+**Bachelor of Science in Computer Science**  Brac University | 🗓️ 2021-2025
 
-### 🏆 Professional Certifications
+###  Professional Certifications
 <table align="center">
 <tr>
 <td align="center" width="25%">
@@ -123,13 +123,13 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 
 <br/>
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always open to discussing new projects, research collaborations, or just chatting about AI and technology.
 
 <div align="center">
 
-### 💼 I'm Open For
+###  I'm Open For
 
 <table>
 <tr>
@@ -137,16 +137,16 @@ I'm always open to discussing new projects, research collaborations, or just cha
 🔬<br/><b>Research<br/>Collaborations</b>
 </td>
 <td align="center" width="20%">
-💼<br/><b>Full-Time<br/>Opportunities</b>
+<br/><b>Full-Time<br/>Opportunities</b>
 </td>
 <td align="center" width="20%">
-🎯<br/><b>Freelance<br/>Projects</b>
+<br/><b>Freelance<br/>Projects</b>
 </td>
 <td align="center" width="20%">
-🎤<br/><b>Speaking<br/>Engagements</b>
+<br/><b>Speaking<br/>Engagements</b>
 </td>
 <td align="center" width="20%">
-📝<br/><b>Technical<br/>Writing</b>
+<br/><b>Technical<br/>Writing</b>
 </td>
 </tr>
 </table>
@@ -155,7 +155,7 @@ I'm always open to discussing new projects, research collaborations, or just cha
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <details>
 <summary>Click to view my GitHub stats</summary>
