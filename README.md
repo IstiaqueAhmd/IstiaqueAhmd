@@ -22,7 +22,7 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 
 *  **What I'm Building:** Scalable ML pipelines, end-to-end Computer Vision systems, and robust MLOps infrastructure.
 *  **What I'm Learning:** Advanced Deep Learning, Distributed Systems, and AI Safety & Ethics.
-*  **Life Philosophy:** "Building the future, one algorithm at a time" ✨
+*  **Life Philosophy:** "Building the future, one algorithm at a time" 
 *  **Fun Fact:** I believe AI should augment human intelligence, not replace it!
 
 <br/>
@@ -33,9 +33,9 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-|  **[Your-Project-Name-1](https://github.com/IstiaqueAhmd/your-repo-1)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-1) <br/> [ Live Demo](https://your-demo-link.com) |
-|  **[Your-Project-Name-2](https://github.com/IstiaqueAhmd/your-repo-2)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-2) |
-|  **[Your-Project-Name-3](https://github.com/IstiaqueAhmd/your-repo-3)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> | [🔗 Repo](https://github.com/IstiaqueAhmd/your-repo-3) <br/> [📝 Paper](https://your-paper-link.com) |
+|  **[Your-Project-Name-1](https://github.com/IstiaqueAhmd/your-repo-1)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> | [ Repo](https://github.com/IstiaqueAhmd/your-repo-1) <br/> [ Live Demo](https://your-demo-link.com) |
+|  **[Your-Project-Name-2](https://github.com/IstiaqueAhmd/your-repo-2)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> | [ Repo](https://github.com/IstiaqueAhmd/your-repo-2) |
+|  **[Your-Project-Name-3](https://github.com/IstiaqueAhmd/your-repo-3)** | A 1-2 line description of your project. What problem does it solve? What's the impact? | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> | [ Repo](https://github.com/IstiaqueAhmd/your-repo-3) <br/> [ Paper](https://your-paper-link.com) |
 
 <br/>
 
@@ -53,7 +53,7 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 </div>
 
 <details>
-<summary><b>🔍 What I Do</b></summary>
+<summary><b> What I Do</b></summary>
 <br/>
 
 *  **AI Model Development** → Design & deploy custom ML solutions for enterprise clients
@@ -93,7 +93,7 @@ Hi, I'm Istiaque Ahmed, a **Data Scientist & AI Engineer** at **Join Venture AI*
 ##  Education & Certifications
 
 ###  Academic Background
-**Bachelor of Science in Computer Science**  Brac University | 🗓️ 2021-2025
+**Bachelor of Science in Computer Science**  Brac University |  2021-2025
 
 ###  Professional Certifications
 <table align="center">
