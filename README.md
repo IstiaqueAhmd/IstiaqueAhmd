@@ -1,4 +1,8 @@
-# Hi, I'm Istiaque Ahmed 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Istiaque%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=18"/>
+</div>
+
+## Hi there 👋
 
 **Data Scientist & AI Engineer** @ Join Venture AI  
 BSc in Computer Science from BRAC University 🇧🇩
