@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Istiaque%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=18"/>
 </div>
 
-## Hi there 👋
+## Hi there 
 
 **Data Scientist & AI Engineer** @ Join Venture AI  
 BSc in Computer Science from BRAC University 🇧🇩
@@ -11,9 +11,11 @@ BSc in Computer Science from BRAC University 🇧🇩
 
 ### What I Do
 
-- 🤖 Building scalable ML pipelines and computer vision systems
-- 🔬 Working on end-to-end AI solutions and MLOps infrastructure
-- 📚 Currently exploring LLMs, distributed systems, and AI safety
+-  **End-to-End AI Development** — Built and deployed NLP pipelines, chatbots, recommendation systems, and Voice AI solutions
+-  **Scalable Backend Systems** — Developed real-time AI agent infrastructure using FastAPI, MongoDB, and WebSockets
+-  **Transformer & RAG Systems** — Implemented transformer-based models with vector databases for document embeddings, retrieval, and summarization
+-  **API Integrations** — Connected external APIs (Twilio, Meta, Dropbox, Google Trends) for data ingestion and workflow automation
+-  **Reusable Pipelines** — Designed modular components that improved development speed and reliability for new AI products
 
 ---
 
@@ -43,4 +45,4 @@ BSc in Computer Science from BRAC University 🇧🇩
 
 ---
 
-*Building the future, one algorithm at a time* 🚀
+*Building the future, one algorithm at a time* 
