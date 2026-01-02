@@ -27,14 +27,6 @@ BSc in Computer Science from BRAC University 🇧🇩
 **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes  
 **Tools:** Git, MLflow, Jupyter
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IstiaqueAhmd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiaqueAhmd&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
